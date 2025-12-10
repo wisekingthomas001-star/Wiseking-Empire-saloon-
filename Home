@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wisekiing Empire</title>
+  <link rel="icon" href="logo.png" type="image/png">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+    }
+    header {
+      background-color: #ffcc00;
+      padding: 20px 0;
+    }
+    img {
+      max-width: 200px;
+      height: auto;
+    }
+    h1 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Wisekiing Empire Logo">
+    <h1>Welcome to Wisekiing Empire!</h1>
+  </header>
+  <main>
+    <p>Test the features of your web app here.</p>
+  </main>
+</body>
+</html>
